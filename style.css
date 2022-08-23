@@ -1,9 +1,11 @@
 h1 {
     font-size: 50px;
+    color: white;
 }
 
-div {
-    background-image: url(images/donation10.jpg);
+section {
+    background-image: url(images/donation0.jpg);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: unset;
+
 }
