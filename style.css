@@ -1,0 +1,9 @@
+h1 {
+    font-size: 50px;
+}
+
+div {
+    background-image: url(images/donation10.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
